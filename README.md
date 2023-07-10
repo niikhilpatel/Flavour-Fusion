@@ -3,6 +3,12 @@ https://github.com/niikhilpatel/Flavour-Fusion.gitttps://github.com/niikhilpatel
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### Install React icons (extra dependencies)
+
+```sh
+npm install react-icons 
+```
 ## Available Scripts
 
 In the project directory, you can run:
